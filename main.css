@@ -1,0 +1,22 @@
+<!DOCTYPE css> 
+<css lang="en">
+body {background-color:brown;
+    font-family: Ariel sans-serif;}
+    
+header {background-color: antiquewhite}
+
+h1 {color: dimgray; 
+background-color:firebrick}
+nav>ul { padding-left: 5px; 
+    line-height: 2em;
+list-style-type: none;
+    }
+h2 {color:dimgray;
+    background-color:firebrick}
+p1 {background-color:aquamarine; 
+
+}
+p2 {background-color:}
+section {background color:aqua}
+ol {background-color:aqua}
+footer {background-color: beige}
